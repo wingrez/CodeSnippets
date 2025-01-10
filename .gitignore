@@ -1,0 +1,5 @@
+# 工程配置文件
+.vscode
+
+# 私有文件
+config_private.json
